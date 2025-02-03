@@ -1,0 +1,11 @@
+/home/prabash/Documents/Zerocode/spring-boot-bean-scope/src/main/java/lk/zerocode/api/config/MyAppConfig.java
+/home/prabash/Documents/Zerocode/spring-boot-bean-scope/src/main/java/lk/zerocode/api/controller/ScopeTestController2.java
+/home/prabash/Documents/Zerocode/spring-boot-bean-scope/src/main/java/lk/zerocode/api/controller/ScopeTestController.java
+/home/prabash/Documents/Zerocode/spring-boot-bean-scope/src/main/java/lk/zerocode/api/service/PrototypeScopeService.java
+/home/prabash/Documents/Zerocode/spring-boot-bean-scope/src/main/java/lk/zerocode/api/config/SampleApiBean.java
+/home/prabash/Documents/Zerocode/spring-boot-bean-scope/src/main/java/lk/zerocode/api/service/SingletonScopeService.java
+/home/prabash/Documents/Zerocode/spring-boot-bean-scope/src/main/java/lk/zerocode/api/service/ApplicationScopeService.java
+/home/prabash/Documents/Zerocode/spring-boot-bean-scope/src/main/java/lk/zerocode/api/service/SampleService.java
+/home/prabash/Documents/Zerocode/spring-boot-bean-scope/src/main/java/lk/zerocode/api/Application.java
+/home/prabash/Documents/Zerocode/spring-boot-bean-scope/src/main/java/lk/zerocode/api/service/RequestScopeService.java
+/home/prabash/Documents/Zerocode/spring-boot-bean-scope/src/main/java/lk/zerocode/api/controller/BeanConfigController.java

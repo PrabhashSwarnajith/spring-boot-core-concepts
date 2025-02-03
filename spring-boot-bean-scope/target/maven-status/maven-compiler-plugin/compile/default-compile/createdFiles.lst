@@ -1,0 +1,11 @@
+lk/zerocode/api/controller/ScopeTestController.class
+lk/zerocode/api/service/SingletonScopeService.class
+lk/zerocode/api/service/PrototypeScopeService.class
+lk/zerocode/api/controller/ScopeTestController2.class
+lk/zerocode/api/controller/BeanConfigController.class
+lk/zerocode/api/config/MyAppConfig.class
+lk/zerocode/api/Application.class
+lk/zerocode/api/config/SampleApiBean.class
+lk/zerocode/api/service/SampleService.class
+lk/zerocode/api/service/ApplicationScopeService.class
+lk/zerocode/api/service/RequestScopeService.class
